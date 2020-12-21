@@ -11,13 +11,7 @@ Boilerplate for react library.
    pnpm i
    ```
 
-3. Before starting dev server, you need to execute this command.
-
-   ```
-   pnpm build
-   ```
-
-4. Start dev server.
+3. Start dev server.
 
    ```
    pnpm start
