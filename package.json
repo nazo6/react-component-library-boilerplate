@@ -33,5 +33,9 @@
   },
   "peerDependencies": {
     "react": "^17.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazo6/react-component-library-boilerplate"
   }
 }
